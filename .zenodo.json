@@ -16,11 +16,6 @@
          "scheme":"url",
          "identifier":"https://github.com/aframosp/planets/tree/test3",
          "relation":"isSupplementTo"
-      },
-      {
-         "scheme":"doi",
-         "identifier":"10.5072/zenodo.1218537",
-         "relation":"isVersionOf"
       }
    ],
    "keywords":[
