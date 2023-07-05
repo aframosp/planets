@@ -1,31 +1,36 @@
 {
-    "description": "<p>Release for testing</p>", 
-    "license": "GFDL-1.3-no-cover-texts-no-invariant-sections", 
-    "title": "aframosp/planets: test realease", 
-    "version": "test", 
-    "upload_type": "software", 
-    "publication_date": "2023-07-05", 
-    "creators": [
-        {
-            "name": "Andr\u00e9s Ramos"
-        }
-    ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/aframosp/planets/tree/test", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5072/zenodo.1218537", 
-            "relation": "isVersionOf"
-        }
-    ],
-  "keywords": ["astro", "planet", "test"],
-
-    "communities": [
-        {"identifier": "ddtesta"}
-    ],
+   "description":"<p>Release for testing</p>",
+   "license":"GFDL-1.3-no-cover-texts-no-invariant-sections",
+   "title":"aframosp/planets: test realease",
+   "version":"test",
+   "upload_type":"software",
+   "publication_date":"2023-07-05",
+   "creators":[
+      {
+         "name":"Andr\u00e9s Ramos"
+      }
+   ],
+   "access_right":"open",
+   "related_identifiers":[
+      {
+         "scheme":"url",
+         "identifier":"https://github.com/aframosp/planets/tree/test",
+         "relation":"isSupplementTo"
+      },
+      {
+         "scheme":"doi",
+         "identifier":"10.5072/zenodo.1218537",
+         "relation":"isVersionOf"
+      }
+   ],
+   "keywords":[
+      "astro",
+      "planet",
+      "test"
+   ],
+   "communities":[
+      {
+         "identifier":"ddtesta"
+      }
+   ]
 }
