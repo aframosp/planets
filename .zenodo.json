@@ -4,17 +4,19 @@
    "title":"aframosp/planets: test realease",
    "version":"test",
    "upload_type":"software",
-   "publication_date":"2023-07-05",
+   "doi":"10.82290/RIVM_SOFT_0001",
    "creators":[
       {
-         "name":"Andr\u00e9s Ramos"
-      }
+      "name": "Ramos Padilla, Andres Felipe",
+      "affilitation": "Personal",
+      "orcid": "https://orcid.org/0000-0002-4561-2452",
+    }
    ],
    "access_right":"open",
    "related_identifiers":[
       {
          "scheme":"url",
-         "identifier":"https://github.com/aframosp/planets/tree/test3",
+         "identifier":"https://github.com/aframosp/planets/tree/test4",
          "relation":"isSupplementTo"
       }
    ],
@@ -23,9 +25,4 @@
       "planet",
       "test"
    ],
-   "communities":[
-      {
-         "identifier":"ddtesta"
-      }
-   ]
 }
